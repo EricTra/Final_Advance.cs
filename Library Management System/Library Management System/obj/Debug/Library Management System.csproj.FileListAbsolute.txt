@@ -1,0 +1,8 @@
+E:\Code Project\C#\Final_Advance.cs\Library Management System\Library Management System\bin\Debug\Library Management System.exe.config
+E:\Code Project\C#\Final_Advance.cs\Library Management System\Library Management System\bin\Debug\Library Management System.exe
+E:\Code Project\C#\Final_Advance.cs\Library Management System\Library Management System\bin\Debug\Library Management System.pdb
+E:\Code Project\C#\Final_Advance.cs\Library Management System\Library Management System\obj\Debug\Library Management System.csproj.AssemblyReference.cache
+E:\Code Project\C#\Final_Advance.cs\Library Management System\Library Management System\obj\Debug\Library Management System.csproj.SuggestedBindingRedirects.cache
+E:\Code Project\C#\Final_Advance.cs\Library Management System\Library Management System\obj\Debug\Library Management System.csproj.CoreCompileInputs.cache
+E:\Code Project\C#\Final_Advance.cs\Library Management System\Library Management System\obj\Debug\Library Management System.exe
+E:\Code Project\C#\Final_Advance.cs\Library Management System\Library Management System\obj\Debug\Library Management System.pdb
