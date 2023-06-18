@@ -9,7 +9,7 @@ namespace Library_Management_System
     // Class representing a library user
     public class LibraryUser
     {
-        public string UserName { get; set; }
+        private string UserName { get; set; }
         public string Address { get; set; }
         public List<Item> BorrowedItems { get; set; }
 
