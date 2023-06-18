@@ -17,12 +17,7 @@ namespace Library_Management_System
         }
 
         // Template method
-        public void PrintInfo()
-        {
-            Console.WriteLine("Title: " + title);
-            TemplateItemInfo();
-            Console.WriteLine();
-        }
+       public abstract void PrintInfo();
 
         // Abstract method to be implemented by subclasses
         protected abstract void TemplateItemInfo();
