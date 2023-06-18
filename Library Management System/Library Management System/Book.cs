@@ -31,10 +31,12 @@ namespace Library_Management_System
             yearOfPublication = newYearOfPublication;
         }
 
-        public void PrintInfo()
+        public override void PrintInfo()
         {
             Console.WriteLine("Book Info:");
-            base.PrintInfo();
+            Console.WriteLine("Title: " + title);
+            TemplateItemInfo();
+            Console.WriteLine();
         }
     }
 }
